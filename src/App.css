@@ -49,3 +49,7 @@ span{
 h2{
     margin-top: 28px;
 }
+
+button:hover{
+    background-color: #356AFF;
+}
